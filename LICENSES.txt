@@ -1,0 +1,5 @@
+Third-party components included in this package
+- Amiri font — SIL Open Font License 1.1 (fonts/amiri-*)
+- IBM Plex Sans Arabic font — SIL Open Font License 1.1 (fonts/ibm-plex-sans-arabic-*)
+No third-party logos, brand marks, screenshots or personal data are included.
+Interface icons are simple line drawings created for this project.

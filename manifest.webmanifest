@@ -1,15 +1,16 @@
 {
- "name": "مصاريفي",
- "short_name": "مصاريفي",
- "description": "مدير مصاريف وثروة شخصي",
+ "id": "./",
+ "name": "ميزان",
+ "short_name": "ميزان",
+ "description": "دفتر حسابات شخصي: مصروفات، التزامات، ثروة وتقارير",
  "lang": "ar",
  "dir": "rtl",
  "start_url": "./",
  "scope": "./",
  "display": "standalone",
  "orientation": "portrait",
- "background_color": "#F4F6F7",
- "theme_color": "#0B4F63",
+ "background_color": "#F6F1E6",
+ "theme_color": "#1D3B6E",
  "icons": [
   {
    "src": "icon-192.png",
